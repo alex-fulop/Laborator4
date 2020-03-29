@@ -1,0 +1,12 @@
+
+ 1. Să se realizeze un program interactiv care implementează metodele de sortare directe prezentate în această lucrare. 
+Programul va prezenta următorul meniu: 
+- C – iniţializează tabloul de sortat cu valori generate aleator 
+- V - vizualizează tablou 
+- R - reiniţializează tabloul: pentru aducerea tabloului la forma iniţială dupa ce acesta a fost sortat, în vederea aplicării unei alte sortări 
+- I - sortare prin inserţie 
+- B - sortare prin inserţie binară 
+- S - sortare prin selecţie 
+- T - sortare prin interschimbare  
+- H - sortare prin metoda Shakersort  
+- X - părăsirea programului. 
