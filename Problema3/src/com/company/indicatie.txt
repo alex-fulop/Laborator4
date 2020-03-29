@@ -1,0 +1,2 @@
+3. Se consideră un set de n planete, caracterizate prin nume şi cele 3 coordonate în spatiu : X,Y,Z.
+Să se afişeze cea mai apropiată pereche de planete, precum şi cele mai îndepărtate două planete.

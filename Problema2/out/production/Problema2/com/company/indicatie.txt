@@ -1,0 +1,2 @@
+2. Se consideră un set de 49 numere. Calculatorul va extrage aleator  6 numere din setul de mai sus,
+şi va afisa aceste 6 numere în ordine crescătoare. Se va folosi sortarea prin selecţie.
